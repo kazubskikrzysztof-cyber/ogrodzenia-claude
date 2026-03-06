@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls:*)",
+      "Bash(find C:\\\\Users\\\\Kazub\\\\OneDrive\\\\Desktop\\\\Nowy folder \\(7\\):*)",
+      "Bash(wc:*)",
+      "Bash(curl:*)",
+      "Bash(netstat:*)",
+      "Bash(python:*)",
+      "Bash(rm:*)",
+      "Bash(powershell:*)",
+      "Bash(start:*)"
+    ]
+  }
+}
